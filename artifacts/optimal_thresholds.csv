@@ -1,0 +1,5 @@
+strategy,threshold,description
+Recall_70,0.1925012320280075,Optimized for Recall_70
+Best_F1,0.3273988664150238,Optimized for Best_F1
+Prec_30,0.4123062789440155,Optimized for Prec_30
+Default_0.5,0.5,Optimized for Default_0.5

@@ -3,3 +3,8 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+xgboost
+lightgbm
+statsmodels
+imbalanced-learn
+shap
