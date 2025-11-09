@@ -1,0 +1,2 @@
+Best_Model,Annual_Savings,ROI,Defaults_Prevented_Rate,Investigation_Accuracy,Optimal_Threshold,Implementation_Recommendation
+XGBoost,7174020000,2668.90625,100.0,8.07993762567196,0.0025481719058007,Deploy with continuous monitoring and monthly recalibration
